@@ -1,1 +1,1 @@
-# AWS-Rekognition-Demo-
+# AWS-Rekognition-Demo
